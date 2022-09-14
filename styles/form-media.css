@@ -1,0 +1,40 @@
+@media (min-width:376px) {
+  :root {
+    --diameter: 50px;
+  }
+
+  form {
+    max-width: 412px;
+    border-radius: 25px;
+    margin-top: 193px;
+    padding-top: 35px;
+
+  }
+
+  .wrapper {
+    padding-left: 30px;
+    padding-right: 11px;
+
+  }
+
+  .rating__star {
+    margin-bottom: 29px;
+  }
+
+  legend {
+    font-size: 28px;
+    margin-bottom: 9px;
+  }
+
+  fieldset p {
+    padding-right: 40px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+    margin-bottom: 29px;
+  }
+
+  .rating__numbers {
+    margin-bottom: 32px;
+  }
+
+}

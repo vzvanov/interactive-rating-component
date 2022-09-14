@@ -1,0 +1,31 @@
+@media (min-width:376px) {
+    .thank {
+        max-width: 412px;
+        margin-top: 205px;
+        border-radius: 15px;
+    }
+
+    .thank__log {
+        width: 170px;
+        height: 105px;
+        margin-bottom: 35px;
+    }
+
+    .thank__rating {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+
+    .thank__title {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+
+    .thank__text {
+        font-size: 15px;
+        line-height: 30px;
+        padding: 0 35px;
+        line-height: 25px;
+        margin-bottom: 52px;
+    }
+}
