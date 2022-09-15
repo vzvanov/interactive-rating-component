@@ -138,6 +138,8 @@ button {
   display: block;
   background-color: var(--color-orange);
   color: var(--color-white);
+  font-size: 15px;
+  font-weight: var(--fw-bold);
   height: 45px;
   width: 92%;
   border-radius: 22px;
