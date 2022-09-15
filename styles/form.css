@@ -20,9 +20,9 @@
 
   /* Colors */
   /* Primary */
-  /* #fa7312 */
-  /* --color-orange: hwb(25 7% 2%);  Elements must have sufficient color contrast */
-  --color-orange: #8F4105;
+  /* #fa7312 Elements must have sufficient color contrast*/
+  --color-orange: hwb(25 7% 2%);
+  /* --color-orange: #8F4105; */
 
   /* Neutral */
   /* #ffffff */
